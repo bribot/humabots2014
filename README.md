@@ -1,6 +1,6 @@
 # humabots2014
 
-Files from the DotMX team on Humabots 2014 celebrated in Spain.
+Files from the DotMX team on Humabots 2014 celebrated in Spain using a NAO Robot from Softbank (former Aldebaran Robotics).
 
 Related videos can be found in:
 
